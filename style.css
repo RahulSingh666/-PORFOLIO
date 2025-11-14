@@ -322,6 +322,7 @@
         .about-text h3 {
             font-size: 28px;
             margin-bottom: 15px;
+                    color: var(--primary);
         }
 
         .about-text p {
@@ -660,4 +661,5 @@
                 padding-right: 0;
                 margin-bottom: 50px;
             }
+
         }
